@@ -1,0 +1,50 @@
+/* */
+* {
+    text-align: center;
+    margin-left: 50px;
+    margin-right:50px ;
+    font-family: serif;
+    color:black;
+}
+
+
+.foodImg{
+    width: auto;
+    height: auto;
+
+}
+
+
+/*index page*/
+.content {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #cc9545;
+}
+
+h1{
+    font-size: 60px;
+
+}
+
+h2{
+    color: #cc9545;
+    font-size: 30px;
+}
+
+.recipeLinks {
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 40px;
+    text-decoration: none;
+    text-align: center; 
+}
+
+
+.lists{
+   text-align: left; 
+   padding: 10px;
+}
+/*recipe pages*/
+
+/*fix the cupcake image*/
